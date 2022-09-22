@@ -1,5 +1,9 @@
-# Changelog since v3.0.0
-- Merge pull request #24 from troykelly/breaking-dnsprovider-update
+## What's changed
 
-Can't seem to provide a range 
-- Can't seem to provide a range 
+**PLEASE READ BREAKING CHANGES**
+
+## 🚨 Breaking changes
+
+You will need to update your configuration to support the updated variables used by lexicon and dehydrated. It is the provider name underscore and then their variables as detailed here https://dns-lexicon.readthedocs.io/en/latest/configuration_reference.html
+
+E.g. `cloudflare_ auth_username`
