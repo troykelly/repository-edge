@@ -1,6 +1,16 @@
-# Changelog since v2.0.1
-- Merge pull request #21 from troykelly/8-add-support-for-provider_update_delay
+## What's changed
 
-Adding update delay 
-- Update en.yaml 
-- Adding update delay 
+**PLEASE READ BREAKING CHANGES**
+
+## 🚨 Breaking changes
+
+You will need to update your configuration to support the updated variables used by lexicon and dehydrated. It is the provider name underscore and then their variables as detailed here https://dns-lexicon.readthedocs.io/en/latest/configuration_reference.html
+
+E.g. `cloudflare_ auth_username`
+
+- updating providers @troykelly (#22)
+
+## 🚀 Enhancements
+
+- Adding update delay @troykelly (#21)
+- updating providers @troykelly (#22)
