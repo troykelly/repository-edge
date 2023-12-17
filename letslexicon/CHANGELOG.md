@@ -1,9 +1,5 @@
-## What's changed
+# Changelog since v3.0.4
+- Merge pull request #37 from troykelly/36-remove-cas_api_key
 
-**PLEASE READ BREAKING CHANGES**
-
-## 🚨 Breaking changes
-
-You will need to update your configuration to support the updated variables used by lexicon and dehydrated. It is the provider name underscore and then their variables as detailed here https://dns-lexicon.readthedocs.io/en/latest/configuration_reference.html
-
-E.g. `cloudflare_ auth_username`
+Update deploy.yaml 
+- Update deploy.yaml 
