@@ -1,6 +1,5 @@
-# Changelog since v3.1.0
-- Merge pull request #50 from troykelly/49-update-bad-urls
+## What's changed
 
-Fix incorrect URL sources in Dockerfile 
-- Update Dockerfile 
-- Update documentation 
+## 🐛 Bug fixes
+
+- Update Dockerfile @troykelly (#52)
