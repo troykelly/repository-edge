@@ -1,9 +1,9 @@
-# Changelog since v3.0.4
-- Merge pull request #39 from troykelly/38-remove-validation-until-can-be-fixed
+## What's changed
 
-Update certificates 
-- Update certificates 
-- Merge pull request #37 from troykelly/36-remove-cas_api_key
+## 🧰 Maintenance
 
-Update deploy.yaml 
-- Update deploy.yaml 
+- 47 version bump @troykelly (#48)
+
+## 📚 Documentation
+
+- Update README.md @troykelly (#41)
